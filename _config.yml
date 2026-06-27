@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Harsh"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  # bio              : "Short biography for the left-hand sidebar"
   location         : "New York"
   employer         : "Columbia University"
   uri              : # URL
@@ -49,7 +49,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  # bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
