@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 
-You can download my [CV here](/files/Harsh-CV-1pg-Columbia.pdf).
+Link to [CV](/files/Harsh-CV-1pg-Columbia.pdf).
 
